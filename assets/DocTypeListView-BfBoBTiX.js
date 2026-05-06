@@ -1,0 +1,1 @@
+import{Wi as e,la as t}from"./index-BT2ljO3_.js";var n={__name:`DocTypeListView`,setup(n){return(n,r)=>(t(),e(`div`,null,`DocType List View - To be implemented`))}};export{n as default};

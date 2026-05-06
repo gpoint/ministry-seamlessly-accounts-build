@@ -1,0 +1,1 @@
+import{Hi as e,Rr as t,Va as n,Xi as r,fa as i,la as a,ra as o,wa as s}from"./index-BT2ljO3_.js";var c=r({__name:`MenuSeparator`,props:{asChild:{type:Boolean,required:!1},as:{type:null,required:!1}},setup(r){let c=r;return(r,l)=>(a(),e(n(t),o(c,{role:`separator`,"aria-orientation":`horizontal`}),{default:s(()=>[i(r.$slots,`default`)]),_:3},16))}});export{c as t};

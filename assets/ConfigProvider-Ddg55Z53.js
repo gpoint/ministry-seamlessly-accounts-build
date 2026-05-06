@@ -1,0 +1,1 @@
+import{pi as e}from"./index-BT2ljO3_.js";var[t,n]=e(`ConfigProvider`);export{t};
