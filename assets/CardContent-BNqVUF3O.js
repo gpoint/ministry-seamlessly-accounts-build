@@ -1,1 +1,0 @@
-import{Ga as e,Ji as t,Ka as n,ea as r,ga as i,kr as a,pa as o}from"./index-Chfs-V2L.js";var s=r({__name:`CardContent`,props:{class:{}},setup(r){let s=r;return(r,c)=>(o(),t(`div`,{class:n(e(a)(`p-6 pt-0`,s.class))},[i(r.$slots,`default`)],2))}});export{s as t};

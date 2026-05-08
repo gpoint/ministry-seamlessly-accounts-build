@@ -1,0 +1,1 @@
+import{Ga as e,Ji as t,Ka as n,ea as r,ga as i,kr as a,pa as o}from"./index-DqZP5eSM.js";var s=r({__name:`DialogFooter`,props:{class:{}},setup(r){let s=r;return(r,c)=>(o(),t(`div`,{class:n(e(a)(`flex flex-col-reverse sm:flex-row sm:justify-end sm:gap-x-2`,s.class))},[i(r.$slots,`default`)],2))}});export{s as t};
