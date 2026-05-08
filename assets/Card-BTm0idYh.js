@@ -1,1 +1,0 @@
-import{Ga as e,Ji as t,Ka as n,ea as r,ga as i,kr as a,pa as o}from"./index-Cdm0laGG.js";var s=r({__name:`Card`,props:{class:{}},setup(r){let s=r;return(r,c)=>(o(),t(`div`,{class:n(e(a)(`rounded-sm border bg-card text-card-foreground shadow`,s.class))},[i(r.$slots,`default`)],2))}});export{s as t};

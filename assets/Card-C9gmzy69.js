@@ -1,0 +1,1 @@
+import{Ga as e,Ji as t,Ka as n,ea as r,ga as i,kr as a,pa as o}from"./index-Bc24dMxC.js";var s=r({__name:`Card`,props:{class:{}},setup(r){let s=r;return(r,c)=>(o(),t(`div`,{"data-slot":`card`,class:n(e(a)(`bg-card text-card-foreground flex flex-col gap-6 rounded-sm border py-6 shadow-sm`,s.class))},[i(r.$slots,`default`)],2))}});export{s as t};

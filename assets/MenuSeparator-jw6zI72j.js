@@ -1,0 +1,1 @@
+import{Ga as e,Ki as t,Oa as n,Vr as r,ea as i,ga as a,pa as o,sa as s}from"./index-Bc24dMxC.js";var c=i({__name:`MenuSeparator`,props:{asChild:{type:Boolean,required:!1},as:{type:null,required:!1}},setup(i){let c=i;return(i,l)=>(o(),t(e(r),s(c,{role:`separator`,"aria-orientation":`horizontal`}),{default:n(()=>[a(i.$slots,`default`)]),_:3},16))}});export{c as t};
