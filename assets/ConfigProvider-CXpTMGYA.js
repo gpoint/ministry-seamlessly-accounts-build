@@ -1,0 +1,1 @@
+import{gi as e}from"./index-Cdm0laGG.js";var[t,n]=e(`ConfigProvider`);export{t};

@@ -1,0 +1,1 @@
+import{t as e}from"./ConfigProvider-CXpTMGYA.js";import{Wi as t,za as n}from"./index-Cdm0laGG.js";function r(r){let i=e({dir:n(`ltr`)});return t(()=>r?.value||i.dir?.value||`ltr`)}export{r as t};

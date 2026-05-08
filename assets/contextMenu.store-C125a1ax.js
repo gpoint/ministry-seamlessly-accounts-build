@@ -1,0 +1,1 @@
+import{f as e,za as t}from"./index-Cdm0laGG.js";const n=e(`contextMenu`,()=>{let e=t(!1),n=t(0),r=t(0),i=t([]);function a(t,a,o){n.value=t,r.value=a,i.value=o,e.value=!0}function o(){e.value=!1,i.value=[]}return{isOpen:e,x:n,y:r,items:i,show:a,hide:o}});export{n as t};

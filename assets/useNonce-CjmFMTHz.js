@@ -1,0 +1,1 @@
+import{t as e}from"./ConfigProvider-CXpTMGYA.js";import{Wi as t,za as n}from"./index-Cdm0laGG.js";function r(e,t=-1/0,n=1/0){return Math.min(n,Math.max(t,e))}function i(r){let i=e({nonce:n()});return t(()=>r?.value||i.nonce?.value)}export{r as n,i as t};
