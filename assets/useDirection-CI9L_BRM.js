@@ -1,0 +1,1 @@
+import{t as e}from"./ConfigProvider-GEWCfETN.js";import{Bi as t,Fa as n}from"./index-CqK0Jb_U.js";function r(r){let i=e({dir:n(`ltr`)});return t(()=>r?.value||i.dir?.value||`ltr`)}export{r as t};
