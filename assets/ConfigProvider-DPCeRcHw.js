@@ -1,0 +1,1 @@
+import{gi as e}from"./index-Chfs-V2L.js";var[t,n]=e(`ConfigProvider`);export{t};

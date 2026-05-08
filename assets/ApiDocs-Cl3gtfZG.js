@@ -1,0 +1,12 @@
+import{Gi as e,Ki as t,Oa as n,pa as r}from"./index-Chfs-V2L.js";import{t as i}from"./PublicPageLayout-Bz3PUsMD.js";var a={__name:`ApiDocs`,setup(a){return(a,o)=>(r(),t(i,null,{default:n(()=>[...o[0]||=[e(`div`,{class:`max-w-4xl mx-auto space-y-12`},[e(`div`,{class:`space-y-6`},[e(`h1`,{class:`text-4xl font-extrabold tracking-tight`},`API Documentation`),e(`p`,{class:`text-xl text-muted-foreground`},` FMACTCEoffers a powerful REST API for developers. Integrate accounting directly into your application. `),e(`div`,{class:`flex gap-4`},[e(`button`,{class:`px-5 py-2.5 bg-primary text-primary-foreground font-medium rounded-sm hover:bg-primary/90 transition-colors`},`Read the Docs`),e(`button`,{class:`px-5 py-2.5 border border-border bg-background hover:bg-muted font-medium rounded-sm transition-colors`},`Get API Key`)])]),e(`div`,{class:`space-y-8`},[e(`div`,{class:`border rounded-sm bg-green-950 text-slate-50 overflow-hidden shadow-2xl`},[e(`div`,{class:`border-b border-white/10 px-4 py-3 flex items-center gap-2 bg-white/5`},[e(`div`,{class:`w-3 h-3 rounded-full bg-red-500`}),e(`div`,{class:`w-3 h-3 rounded-full bg-yellow-500`}),e(`div`,{class:`w-3 h-3 rounded-full bg-green-500`}),e(`span`,{class:`ml-4 text-xs font-mono text-slate-400`},`Request`)]),e(`div`,{class:`p-6 font-mono text-sm overflow-x-auto`},[e(`div`,{class:`flex gap-4 mb-4`},[e(`span`,{class:`text-slate-400 font-bold`},`POST`),e(`span`,{class:`text-slate-300`},`https://api.fmactce.gov.ng/v1/invoices`)]),e(`pre`,{class:`text-slate-300`},[e(`code`,null,`
+{
+  "customer_id": "cust_12345",
+  "items": [
+    {
+      "description": "Web Development",
+      "quantity": 1,
+      "amount": 250000
+    }
+  ],
+  "due_date": "2025-01-30"
+}`)])])]),e(`div`,{class:`grid md:grid-cols-2 gap-6`},[e(`div`,{class:`p-6 rounded-sm border border-border/50 bg-background/50`},[e(`h3`,{class:`text-lg font-bold mb-2`},`Authentication`),e(`p`,{class:`text-muted-foreground text-sm`},`We use API keys to allow access to the API. You can register a new API key at our developer portal.`)]),e(`div`,{class:`p-6 rounded-sm border border-border/50 bg-background/50`},[e(`h3`,{class:`text-lg font-bold mb-2`},`Rate Limits`),e(`p`,{class:`text-muted-foreground text-sm`},`Our API is rate limited to 100 requests per minute per IP address to ensure stability for all users.`)])])])],-1)]]),_:1}))}};export{a as default};
