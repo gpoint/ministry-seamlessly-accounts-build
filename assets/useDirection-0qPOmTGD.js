@@ -1,1 +1,0 @@
-import{t as e}from"./ConfigProvider-Ddg55Z53.js";import{Bi as t,Fa as n}from"./index-BT2ljO3_.js";function r(r){let i=e({dir:n(`ltr`)});return t(()=>r?.value||i.dir?.value||`ltr`)}export{r as t};

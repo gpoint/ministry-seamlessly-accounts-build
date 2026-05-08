@@ -1,1 +1,0 @@
-import{t as e}from"./ConfigProvider-Ddg55Z53.js";import{Bi as t,Fa as n}from"./index-BT2ljO3_.js";function r(e,t=-1/0,n=1/0){return Math.min(n,Math.max(t,e))}function i(r){let i=e({nonce:n()});return t(()=>r?.value||i.nonce?.value)}export{r as n,i as t};

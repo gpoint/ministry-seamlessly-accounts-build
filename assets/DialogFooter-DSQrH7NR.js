@@ -1,1 +1,0 @@
-import{Er as e,Ha as t,Va as n,Wi as r,Xi as i,fa as a,la as o}from"./index-BT2ljO3_.js";var s=i({__name:`DialogFooter`,props:{class:{}},setup(i){let s=i;return(i,c)=>(o(),r(`div`,{class:t(n(e)(`flex flex-col-reverse sm:flex-row sm:justify-end sm:gap-x-2`,s.class))},[a(i.$slots,`default`)],2))}});export{s as t};

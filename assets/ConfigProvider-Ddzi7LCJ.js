@@ -1,0 +1,1 @@
+import{pi as e}from"./index-CVljIrsf.js";var[t,n]=e(`ConfigProvider`);export{t};
