@@ -1,1 +1,0 @@
-import{pi as e}from"./index-CqK0Jb_U.js";var[t,n]=e(`ConfigProvider`);export{t};
