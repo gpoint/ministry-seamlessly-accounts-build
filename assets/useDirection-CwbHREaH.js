@@ -1,1 +1,0 @@
-import{t as e}from"./ConfigProvider-F5EpLEG5.js";import{Hi as t,La as n}from"./index-Bx5VLA11.js";function r(r){let i=e({dir:n(`ltr`)});return t(()=>r?.value||i.dir?.value||`ltr`)}export{r as t};

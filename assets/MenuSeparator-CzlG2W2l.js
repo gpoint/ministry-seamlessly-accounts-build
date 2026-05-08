@@ -1,1 +1,0 @@
-import{Ea as e,Qi as t,Ua as n,Wi as r,aa as i,da as a,ma as o,zr as s}from"./index-Bx5VLA11.js";var c=t({__name:`MenuSeparator`,props:{asChild:{type:Boolean,required:!1},as:{type:null,required:!1}},setup(t){let c=t;return(t,l)=>(a(),r(n(s),i(c,{role:`separator`,"aria-orientation":`horizontal`}),{default:e(()=>[o(t.$slots,`default`)]),_:3},16))}});export{c as t};

@@ -1,0 +1,1 @@
+import{gi as e}from"./index-BmhDwx9F.js";var[t,n]=e(`ConfigProvider`);export{t};
