@@ -1,1 +1,0 @@
-import{Ji as e,pa as t}from"./index-Bc24dMxC.js";var n={__name:`DocTypeListView`,setup(n){return(n,r)=>(t(),e(`div`,null,`DocType List View - To be implemented`))}};export{n as default};

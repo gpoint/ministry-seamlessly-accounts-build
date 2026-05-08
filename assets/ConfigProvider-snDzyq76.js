@@ -1,1 +1,0 @@
-import{gi as e}from"./index-Bc24dMxC.js";var[t,n]=e(`ConfigProvider`);export{t};
