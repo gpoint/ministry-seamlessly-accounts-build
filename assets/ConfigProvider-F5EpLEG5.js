@@ -1,0 +1,1 @@
+import{mi as e}from"./index-Bx5VLA11.js";var[t,n]=e(`ConfigProvider`);export{t};

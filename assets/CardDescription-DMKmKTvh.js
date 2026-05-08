@@ -1,1 +1,0 @@
-import{Dr as e,Ki as t,Qi as n,Ua as r,Wa as i,da as a,ma as o}from"./index-ClQnW_2S.js";var s=n({__name:`CardDescription`,props:{class:{}},setup(n){let s=n;return(n,c)=>(a(),t(`p`,{class:i(r(e)(`text-sm text-muted-foreground`,s.class))},[o(n.$slots,`default`)],2))}});export{s as t};
