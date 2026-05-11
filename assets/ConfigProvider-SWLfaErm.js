@@ -1,1 +1,0 @@
-import{gi as e}from"./index-CyLfPdYg.js";var[t,n]=e(`ConfigProvider`);export{t};

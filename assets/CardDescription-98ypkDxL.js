@@ -1,0 +1,1 @@
+import{Nr as e,Qi as t,Xa as n,Ya as r,_a as i,ba as a,ia as o}from"./index-Bq5sdYCX.js";var s=o({__name:`CardDescription`,props:{class:{}},setup(o){let s=o;return(o,c)=>(i(),t(`p`,{class:n(r(e)(`text-sm text-muted-foreground`,s.class))},[a(o.$slots,`default`)],2))}});export{s as t};

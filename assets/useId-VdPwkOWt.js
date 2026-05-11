@@ -1,0 +1,1 @@
+import{t as e}from"./ConfigProvider-CdbnLol4.js";import{Ni as t,Ta as n}from"./index-Bq5sdYCX.js";var r=0;function i(i,a=`reka`){if(i)return i;if(`useId`in t)return`${a}-${n?.()}`;let o=e({useId:void 0});return o.useId?`${a}-${o.useId()}`:`${a}-${++r}`}export{i as t};
