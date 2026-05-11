@@ -1,0 +1,1 @@
+import{Pa as e,Qi as t,Sa as n,Za as r,oa as i,pa as a,qr as o,ya as s}from"./index-B_bdvjRF.js";var c=i({__name:`MenuSeparator`,props:{asChild:{type:Boolean,required:!1},as:{type:null,required:!1}},setup(i){let c=i;return(i,l)=>(s(),t(r(o),a(c,{role:`separator`,"aria-orientation":`horizontal`}),{default:e(()=>[n(i.$slots,`default`)]),_:3},16))}});export{c as t};

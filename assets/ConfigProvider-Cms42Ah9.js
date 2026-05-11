@@ -1,1 +1,0 @@
-import{bi as e}from"./index-BTEZJsfm.js";var[t,n]=e(`ConfigProvider`);export{t};

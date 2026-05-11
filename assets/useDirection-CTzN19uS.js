@@ -1,1 +1,0 @@
-import{t as e}from"./ConfigProvider-Cms42Ah9.js";import{Ji as t,Ua as n}from"./index-BTEZJsfm.js";function r(r){let i=e({dir:n(`ltr`)});return t(()=>r?.value||i.dir?.value||`ltr`)}export{r as t};

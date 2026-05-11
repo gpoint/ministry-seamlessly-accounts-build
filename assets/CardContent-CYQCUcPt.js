@@ -1,1 +1,0 @@
-import{Nr as e,Qi as t,Xa as n,Ya as r,_a as i,ba as a,ia as o}from"./index-BTEZJsfm.js";var s=o({__name:`CardContent`,props:{class:{}},setup(o){let s=o;return(o,c)=>(i(),t(`div`,{class:n(r(e)(`p-6 pt-0`,s.class))},[a(o.$slots,`default`)],2))}});export{s as t};
