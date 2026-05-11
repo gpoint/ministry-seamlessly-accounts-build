@@ -1,0 +1,1 @@
+import{j as e,vr as t}from"./index-BTEZJsfm.js";const n=[{heading:`Tools`,items:[{value:`calculator`,label:`Calculator`,icon:t,disabled:!1}]},{heading:`Settings`,items:[{value:`settings`,label:`Settings`,icon:e,shortcut:``,disabled:!1}]}];export{n as t};

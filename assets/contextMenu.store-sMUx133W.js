@@ -1,0 +1,1 @@
+import{Ua as e,f as t}from"./index-BTEZJsfm.js";const n=t(`contextMenu`,()=>{let t=e(!1),n=e(0),r=e(0),i=e([]),a=e(null);function o(e,o,s,c={}){n.value=e,r.value=o,i.value=s,a.value=c,t.value=!0}function s(){t.value=!1,i.value=[],a.value=null}return{isOpen:t,x:n,y:r,items:i,context:a,show:o,hide:s}});export{n as t};

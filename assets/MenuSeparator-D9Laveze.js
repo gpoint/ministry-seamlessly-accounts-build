@@ -1,0 +1,1 @@
+import{Gr as e,Ma as t,Xi as n,Ya as r,_a as i,ba as a,da as o,ia as s}from"./index-BTEZJsfm.js";var c=s({__name:`MenuSeparator`,props:{asChild:{type:Boolean,required:!1},as:{type:null,required:!1}},setup(s){let c=s;return(s,l)=>(i(),n(r(e),o(c,{role:`separator`,"aria-orientation":`horizontal`}),{default:t(()=>[a(s.$slots,`default`)]),_:3},16))}});export{c as t};

@@ -1,0 +1,1 @@
+import{Nr as e,Qi as t,Xa as n,Ya as r,_a as i,ba as a,ia as o}from"./index-BTEZJsfm.js";var s=o({__name:`Card`,props:{class:{}},setup(o){let s=o;return(o,c)=>(i(),t(`div`,{"data-slot":`card`,class:n(r(e)(`bg-card text-card-foreground flex flex-col gap-6 rounded-sm border py-6 shadow-sm`,s.class))},[a(o.$slots,`default`)],2))}});export{s as t};
