@@ -1,1 +1,0 @@
-import{Fr as e,Qa as t,Sa as n,Za as r,ea as i,oa as a,ya as o}from"./index-B_bdvjRF.js";var s=a({__name:`Card`,props:{class:{}},setup(a){let s=a;return(a,c)=>(o(),i(`div`,{class:t(r(e)(`rounded-sm border bg-card text-card-foreground shadow`,s.class))},[n(a.$slots,`default`)],2))}});export{s as t};

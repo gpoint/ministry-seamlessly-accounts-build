@@ -1,1 +1,0 @@
-import{Si as e}from"./index-B_bdvjRF.js";var[t,n]=e(`ConfigProvider`);export{t};

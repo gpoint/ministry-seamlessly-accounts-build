@@ -1,0 +1,1 @@
+import{Si as e}from"./index-Dk5L3lVr.js";var[t,n]=e(`ConfigProvider`);export{t};
