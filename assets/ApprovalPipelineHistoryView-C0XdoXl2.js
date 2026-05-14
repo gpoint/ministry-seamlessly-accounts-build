@@ -1,0 +1,1 @@
+import{Zi as e,ea as t,i as n,ya as r}from"./index-DXsSWTzy.js";var i={},a={class:`p-6`};function o(n,i){return r(),t(`div`,a,[...i[0]||=[e(`h1`,{class:`text-2xl font-semibold text-gray-900`},`Pipeline History`,-1),e(`p`,{class:`mt-2 text-sm text-gray-500`},`Past approval pipeline runs for this workflow.`,-1)]])}var s=n(i,[[`render`,o]]);export{s as default};

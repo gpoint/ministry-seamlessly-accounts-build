@@ -1,1 +1,0 @@
-import{t as e}from"./ConfigProvider-Cq-H7q4n.js";import{Da as t,Fi as n}from"./index-Dk5L3lVr.js";var r=0;function i(i,a=`reka`){if(i)return i;if(`useId`in n)return`${a}-${t?.()}`;let o=e({useId:void 0});return o.useId?`${a}-${o.useId()}`:`${a}-${++r}`}export{i as t};

@@ -1,0 +1,1 @@
+import{Si as e}from"./index-DXsSWTzy.js";var[t,n]=e(`ConfigProvider`);export{t};

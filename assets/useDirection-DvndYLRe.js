@@ -1,1 +1,0 @@
-import{t as e}from"./ConfigProvider-Cq-H7q4n.js";import{Ga as t,Xi as n}from"./index-Dk5L3lVr.js";function r(r){let i=e({dir:t(`ltr`)});return n(()=>r?.value||i.dir?.value||`ltr`)}export{r as t};

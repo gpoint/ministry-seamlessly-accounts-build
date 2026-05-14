@@ -1,0 +1,1 @@
+import{ea as e,ya as t}from"./index-DXsSWTzy.js";var n={__name:`DocTypeEditorView`,setup(n){return(n,r)=>(t(),e(`div`,null,`DocType Editor View - To be implemented`))}};export{n as default};
